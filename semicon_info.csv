@@ -1,0 +1,19 @@
+Name,Ticker,Country,Manufacturer type,Products
+NVIDIA,NVDA,US,Fabless,"GPU,SSD,DRAM,microprocessor"
+ASML,ASML,Netherlands,Others,lithography
+Broadcom,AVGO,US,Fabless,"broadband,wifi,bluetooth modems,custom DSP,CPU"
+Texas Instruments,TXN,US,IDM,"microcontroller,soc,dsp,amplifiers,data converters"
+Qualcomm,QCOM,US,Fabless,"RF,digital signal processor,soc"
+Intel,INTC,US,IDM,"GPU,SSD,DRAM,microprocessor"
+AMD,AMD,US,Fabless,"CPU, GPU, motherboard chipset, SDRAM"
+Applied Materials,AMAT,US,Others,"ald,cvd,pvd,rtp,cmp,etch"
+Analog Devices,ADI,US,IDM,"data converters,power management,amplifier,rfic,microcontroller"
+Lam Research,LRCX,US,Others,"film,plasma etch, pthotoresist strip, wafer cleaning"
+Micron Tenchnology,MU,US,IDM,"DRAM, NAND, SSD, NOR, multichip packages"
+Microchip Tenchonology,MCHP,US,IDM,"microcontroller, analog semiconductor"
+GlobalFoundries,GFS,US,Foundry,foundry
+ON Semiconductor,ON,US,IDM,"asic,power management,amplifier,converters,filters"
+Apple,AAPL,US,Fabless,soc
+IBM,IBM,US,IDM,microprocessor
+UMC,UMC,Taiwan,Foundry,foundry
+ASE Group,ASX,Taiwan,Others,"assembly, testing, packaging"
