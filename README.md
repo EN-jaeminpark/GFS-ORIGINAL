@@ -2,7 +2,7 @@
 SNU Master's Thesis Research
 *** note that this repository is the source for my thesis paper
 
-# RetinaFace: 
+# GFS: 
 These are codes of GFS (Graph-based Framework for Stock price movement prediction) used for predictiong future stock price movement, developed for my SNU Master's thesis research paper.
 The title of the paper is 'Modeling Changing Stock Relations using Web Search Volume for Stock Price Movement Prediction'.
 The paper is not yet public, so please note that this code is not open for references.
@@ -25,7 +25,7 @@ Codes in this directory are implemented using Python 3.7.
 This repository contains the code for GFS. 
 The required Python packages are described in ./requirments.txt.
 
-* The major codes of RetinaFace is in this directory.
+* The major codes of GFS is in this directory.
     * `main.py`: the code that takes historical price and web search volume to perform stock price movement prediction.
     * `preprocess.py`: the code that collects needed stock related information and preprocess data so that it can be used in the main.py file.
     * `model/GFS.py`: the code that contains the implementation of GFS model.
