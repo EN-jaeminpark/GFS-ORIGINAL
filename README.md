@@ -1,6 +1,7 @@
-# GFS-Final
+# GFS-ORIGINAL
+Last update (23.01.09)
 SNU Master's Thesis Research
-*** note that this repository is the source for my thesis paper
+#### Nnote that this repository is the source for my thesis paper
 
 # GFS: 
 These are codes of GFS (Graph-based Framework for Stock price movement prediction) used for predictiong future stock price movement, developed for my SNU Master's thesis research paper.
